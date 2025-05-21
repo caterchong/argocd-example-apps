@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - image: quay.io/argoprojlabs/argocd-e2e-container:0.2
-        name: guestbook-ui
+        name: guestbook-ui-change
         ports:
         - containerPort: 80
