@@ -23,6 +23,7 @@ spec:
     metadata:
       labels:
         app: rollouts-demo
+        testlabel: aa
     spec:
       containers:
       - name: rollouts-demo
